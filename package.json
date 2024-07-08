@@ -1,0 +1,10 @@
+{
+  "name": "blockscout-urls",
+  "version": "1.0.0",
+  "description": "Blockchain explorer URLs keyed by chain id",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/numtel/blockscout-urls",
+  "author": "numtel <ben@latenightsketches.com>",
+  "license": "MIT"
+}
