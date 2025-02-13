@@ -1,8 +1,11 @@
 {
   "name": "blockscout-urls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Blockchain explorer URLs keyed by chain id",
   "main": "index.js",
+  "scripts": {
+    "refresh": "node refresh.js"
+  },
   "type": "module",
   "repository": "https://github.com/numtel/blockscout-urls",
   "author": "numtel <ben@latenightsketches.com>",
